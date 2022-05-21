@@ -87,3 +87,5 @@ yandex.com, 97539269, RESELLER
 pubmatic.com, 160974, RESELLER, 5d62403b186f2ace
 openx.com, 540866936, RESELLER, 6a698e2ec38604c6
 video.unrulymedia.com, 3383599585, RESELLER, a670c89d4a324e47
+xandr.com, 13297, RESELLER
+appnexus.com, 13297, RESELLER
