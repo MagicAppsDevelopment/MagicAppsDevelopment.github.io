@@ -15,6 +15,7 @@
       "session_gap_min": 30
     },
     "mrec_slot": { "enabled": false, "rollout_pct": 0 },
-    "rewarded": { "enabled": true, "rollout_pct": 100, "ad_unit_id": "3afd97cba7552abe", "ad_free_min": 15, "home_button": true }
-}
+    "rewarded": { "enabled": false, "rollout_pct": 0, "ad_unit_id": "", "ad_free_min": 15, "home_button": true }
+  },
+  "login": { "vk_enabled": true }
 }
