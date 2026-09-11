@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "ads": {
+    "enabled": true,
+    "min_app_version": 74,
+    "interstitial": {
+      "cap_per_day": 1.2,
+      "cap_per_session": 2,
+      "min_gap_sec": 180,
+      "first_session": "ab",
+      "first_session_ab": ["after_first_song", "home_arrival"]
+    },
+    "mrec_slot": { "enabled": false, "rollout_pct": 0 },
+    "rewarded": { "enabled": false, "rollout_pct": 0 }
+  }
+}
