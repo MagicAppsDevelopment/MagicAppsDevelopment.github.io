@@ -8,9 +8,13 @@
       "cap_per_session": 2,
       "min_gap_sec": 180,
       "first_session": "ab",
-      "first_session_ab": ["after_first_song", "home_arrival"]
+      "first_session_ab": ["after_first_song", "home_arrival"],
+      "triggers": { "play_tap": true, "save_offline": true, "tab": true },
+      "review_guard_min": 10,
+      "first_song_sec": 30,
+      "session_gap_min": 30
     },
     "mrec_slot": { "enabled": false, "rollout_pct": 0 },
-    "rewarded": { "enabled": false, "rollout_pct": 0 }
+    "rewarded": { "enabled": false, "rollout_pct": 0, "ad_unit_id": "", "ad_free_min": 15, "home_button": true }
   }
 }
